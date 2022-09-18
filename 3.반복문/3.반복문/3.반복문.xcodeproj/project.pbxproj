@@ -23,6 +23,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		F9123DA828D7710300529DEC /* 06.A+B - 7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "06.A+B - 7.swift"; sourceTree = "<group>"; };
+		F9123DA928D7718200529DEC /* 07.A+B - 8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "07.A+B - 8.swift"; sourceTree = "<group>"; };
+		F9123DAA28D771DE00529DEC /* 08.별 찍기 - 1 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "08.별 찍기 - 1 .swift"; sourceTree = "<group>"; };
+		F9123DAB28D7742C00529DEC /* 09.별 찍기 - 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "09.별 찍기 - 2.swift"; sourceTree = "<group>"; };
+		F9123DAC28D775DF00529DEC /* 10.X보다 작은 수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10.X보다 작은 수.swift"; sourceTree = "<group>"; };
+		F9123DAD28D777E400529DEC /* 11.A+B - 5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11.A+B - 5.swift"; sourceTree = "<group>"; };
+		F9123DAE28D778D800529DEC /* 12.A+B - 4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12.A+B - 4.swift"; sourceTree = "<group>"; };
+		F9123DAF28D77F4800529DEC /* 13.더하기 사이클.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "13.더하기 사이클.swift"; sourceTree = "<group>"; };
 		F96DA87B28D6F1BE00A76083 /* 3.반복문 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "3.반복문"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F96DA87E28D6F1BE00A76083 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F96DA88528D6F29800A76083 /* 01.구구단.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "01.구구단.swift"; sourceTree = "<group>"; };
@@ -46,6 +54,14 @@
 		F96DA87228D6F1BE00A76083 = {
 			isa = PBXGroup;
 			children = (
+				F9123DAF28D77F4800529DEC /* 13.더하기 사이클.swift */,
+				F9123DAE28D778D800529DEC /* 12.A+B - 4.swift */,
+				F9123DAD28D777E400529DEC /* 11.A+B - 5.swift */,
+				F9123DAC28D775DF00529DEC /* 10.X보다 작은 수.swift */,
+				F9123DAB28D7742C00529DEC /* 09.별 찍기 - 2.swift */,
+				F9123DAA28D771DE00529DEC /* 08.별 찍기 - 1 .swift */,
+				F9123DA928D7718200529DEC /* 07.A+B - 8.swift */,
+				F9123DA828D7710300529DEC /* 06.A+B - 7.swift */,
 				F96DA88928D6F84A00A76083 /* 05.빠른 A+B.swift */,
 				F96DA88828D6F64200A76083 /* 04.영수증.swift */,
 				F96DA88728D6F5CB00A76083 /* 03.합.swift */,
