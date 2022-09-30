@@ -33,6 +33,8 @@
 		F91CBD9B28DC740F0079BCD5 /* 06.단어의 개수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "06.단어의 개수.swift"; sourceTree = "<group>"; };
 		F91CBD9C28DC74670079BCD5 /* 07.상수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "07.상수.swift"; sourceTree = "<group>"; };
 		F91CBD9D28DC75D00079BCD5 /* 08.다이얼.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "08.다이얼.swift"; sourceTree = "<group>"; };
+		F9E66E8328E6E75400E90EBF /* 09.크로아티아 알파벳.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "09.크로아티아 알파벳.swift"; sourceTree = "<group>"; };
+		F9E66E8428E6E76D00E90EBF /* 10.그룹 단어 체커.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10.그룹 단어 체커.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +51,8 @@
 		F91CBD8328DC5AF10079BCD5 = {
 			isa = PBXGroup;
 			children = (
+				F9E66E8428E6E76D00E90EBF /* 10.그룹 단어 체커.swift */,
+				F9E66E8328E6E75400E90EBF /* 09.크로아티아 알파벳.swift */,
 				F91CBD9D28DC75D00079BCD5 /* 08.다이얼.swift */,
 				F91CBD9C28DC74670079BCD5 /* 07.상수.swift */,
 				F91CBD9B28DC740F0079BCD5 /* 06.단어의 개수.swift */,
